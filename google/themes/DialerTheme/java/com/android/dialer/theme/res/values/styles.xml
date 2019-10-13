@@ -15,8 +15,10 @@
   -->
 
 <resources>
-  <style name="AlertDialogTheme" parent="@*android:style/Theme.Material.Dialog">
+  <style name="AlertDialogTheme" parent="@*android:style/Theme.DeviceDefault.Light.Dialog">
     <item name="android:colorAccent">@*android:color/omni_color4</item>
+    <item name="android:dialogCornerRadius">2dp</item>
+    <item name="android:buttonCornerRadius">2dp</item>
   </style>
 
 </resources>

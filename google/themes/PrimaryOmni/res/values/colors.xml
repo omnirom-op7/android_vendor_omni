@@ -13,6 +13,8 @@
     <color name="omni_color7">#ff393939</color> <!-- FLOATING DIALOG COLOR ON VERY DARK THEMES MAKE THIS A BIT LIGHTER -->
     <color name="omni_color9">#e6393939</color> <!-- TOAST (NEEDS SOME ALPHA) -->
     <color name="omni_color900">#ff191919</color> <!-- PRIMARY DARK -->
+    <color name="omni_color10">@*android:color/omni_color2</color>
+    <color name="omni_color11">@*android:color/omni_color7</color>
 
     <!-- PRIMARY LIGHT -->
     <color name="primary_dark_device_default_settings">@*android:color/omni_color2</color> <!-- Main BG settings -->

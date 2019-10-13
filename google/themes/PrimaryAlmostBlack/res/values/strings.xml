@@ -20,5 +20,7 @@
 
     <string name="@*android:sysui_overlay_dark">Dark</string>
 
+    <string name="omni_true">false</string>
+
 </resources>
 

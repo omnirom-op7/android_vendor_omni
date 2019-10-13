@@ -12,6 +12,8 @@
     <color name="omni_color6">#b3050505</color> <!-- WIFI ICON IN DETAILS -->
     <color name="omni_color7">#fff9ffff</color> <!-- FLOATING DIALOG COLOR ON VERY DARK THEMES MAKE THIS A BIT LIGHTER -->
     <color name="omni_color9">#e6f7fcff</color> <!-- TOAST (NEEDS SOME ALPHA) -->
+    <color name="omni_color10">@*android:color/omni_color2</color>
+    <color name="omni_color11">@*android:color/omni_color7</color>
 
     <!-- PRIMARY LIGHT -->
     <color name="condition_card_background">@*android:color/omni_color2</color>

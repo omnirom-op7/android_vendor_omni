@@ -118,7 +118,7 @@
     </style>-->
 
     <style name="ContextPopupMenuStyle" parent="@android:style/Widget.PopupMenu">
-        <item name="android:popupBackground">@*android:color/background_floating_material_dark</item>
+        <item name="android:popupBackground">@*android:color/omni_color11</item>
     </style>
 
 </resources>
